@@ -51,3 +51,8 @@ img{
 .card-text {
     text-align: center;
 }
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
